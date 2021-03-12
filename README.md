@@ -18,7 +18,7 @@ The steps involved with installing my project:
 ## Usage
 
     ```md
-    ![Image of finished website](assets/images/Horiseon.jpg)
+    ![Image of finished website](assets/images/horiseon.png)
     ```
 
 ## Credits
