@@ -1,5 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor - Assignment 1
 
+https://unduhduhsea.github.io/UCSD_Assignment1/
+
 ## Description
 
 -My motivation for this project is to identify the redundacies and improve accessibility for users. 
@@ -14,10 +16,9 @@ The steps involved with installing my project:
 - 
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Image of finished website](assets/images/Horiseon.jpg)
     ```
 
 ## Credits
