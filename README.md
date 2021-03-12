@@ -13,6 +13,9 @@ https://unduhduhsea.github.io/UCSD_Assignment1/
 
 The steps involved with installing my project:
 - Pull files items from gitbash
+- Go through code and idenfity accessibility issues (html)
+- Go through CSS and find redundancy issues
+- Push files back to github
 
 ## Usage
 
