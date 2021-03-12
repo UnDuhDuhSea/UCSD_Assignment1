@@ -13,7 +13,6 @@ https://unduhduhsea.github.io/UCSD_Assignment1/
 
 The steps involved with installing my project:
 - Pull files items from gitbash
-- 
 
 ## Usage
 
