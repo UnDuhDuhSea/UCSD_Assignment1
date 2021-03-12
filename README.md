@@ -17,7 +17,8 @@ The steps involved with installing my project:
 
 ## Usage
 
-    ![Image of finished website](/assets/images/horiseon.png)
+    ![image](https://user-images.githubusercontent.com/77994289/110880543-a7166c00-8293-11eb-8538-b00715cb1e10.png)
+
 
 
 ## Credits
